@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+    background-image: url(background/bg.png);
+}
+
+.carousel {
+    max-width: 100%;
+    height: auto;
+  }
+
+div.title{
+    color: white; 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+div.links{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 10px;
+}
+
+div.discl{
+    font-style: italic;
+    font-size: 9pt;
+}
